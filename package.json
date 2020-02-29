@@ -16,7 +16,7 @@
     "popper.js": "^1.14.7",
     "resource": "^0.8.1",
     "v-distpicker": "^1.1.0",
-    "vant": "^1.6.10",
+    "vant": "^2.1.8",
     "vue": "^2.6.6",
     "vue-resource": "^1.5.1",
     "vue-router": "^3.0.1",
